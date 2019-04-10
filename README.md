@@ -1,3 +1,1 @@
-# go-console-client
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFWa4/7+sC412ZSTZorLyRf+P1pCm9qkfu0XyU+UkwmhCE8osHcP3y0cYN4x/EusWlCZ5pulXcxiFWFKK+cZX5evIb1+D7tVefNxvSqmxwTLm34bGPC1OfwYkGDc87nV5Ofia+PLK4LMxLr4oogftwa5VivDlnZzZsOqM6LbcoLoFrzimrLPK6XOb/uucXx/3u7hYxJ9aZJpUDhwlb9b9y0MbCvrbWczKs68NhKK+VC3DHKo6mmDlGCGFfLdUnm6jJRBrcTOf0j++5n1rJBYxD2QS0Cvy9ONpBB8cYfqL4lXPCT3ihHxkinocJs/z0A8U+sCFrPfgA+y4fbU63o0NV
+# GO Console Client Game
